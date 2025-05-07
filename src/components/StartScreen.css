@@ -1,0 +1,9 @@
+.start-screen-background {
+  background-image: url("/images/background.jpg"); /* adjust path if needed */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

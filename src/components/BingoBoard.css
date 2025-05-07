@@ -1,0 +1,16 @@
+.bingo-board-wrapper {
+  display: flex;
+  justify-content: center; /* căn giữa theo chiều ngang */
+  margin-top: 40px; /* tuỳ chọn */
+}
+
+.bingo-board {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.bingo-row {
+  display: flex;
+  gap: 10px;
+}
